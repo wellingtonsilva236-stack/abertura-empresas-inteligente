@@ -20,7 +20,7 @@ Centralizar informações e análises que apoiem decisões estratégicas sobre a
 Como o arquivo original de áudio gerado ultrapassou o limite de 25 MB para upload direto no GitHub, o projeto foi disponibilizado de forma interativa através da nuvem.
 
 Você pode acessar o ecossistema completo do projeto (incluindo as fontes oficiais alimentadas, as notas técnicas de Data Science e o player do podcast por IA) clicando no link abaixo:
-👉 **[Acessar Projeto Completo e Podcast no Google NotebookLM]**
+👉 **[Acessar Projeto Completo e Podcast no Google NotebookLM](https://notebook.google.com/notebook/78026c7e-ad0b-40f4-a9ef-12731952b89f)**
 
 ## 🧮 Código do Algoritmo
 O script de Ciências de Dados com a lógica de pesos ponderados (Concorrência 40%, Segurança 30%, Logística 30%) e os fatores de penalidade foi estruturado em Python e está salvo na pasta `analises/algoritmo_viabilidade.py`.
